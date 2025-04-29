@@ -16,10 +16,12 @@ The game consists of traveling through Mexico and finding different folklores co
 # Cumulative Verse Song
 This simple project was more to do with how to work with loops efficiently
 
-[annotated-Screenshot%202025-03-10%20230532.png.pdf](https://github.com/user-attachments/files/19968083/annotated-Screenshot.202025-03-10.20230532.png.pdf)
+![Screenshot 2025-04-29 164711](https://github.com/user-attachments/assets/5f0cc0c4-037a-4782-aa89-146b44683ac4)
+
 
 # Design with Alphanumeric Characters and Loops
 This was also to do with understanding how to use loops and making designs with them! 
 
-[annotated-Screenshot%202025-03-03%20170704.png.pdf](https://github.com/user-attachments/files/19968109/annotated-Screenshot.202025-03-03.20170704.png.pdf)
+![Screenshot 2025-04-29 164646](https://github.com/user-attachments/assets/6274d871-d343-443c-b88f-f8c5f7d53077)
+
 
