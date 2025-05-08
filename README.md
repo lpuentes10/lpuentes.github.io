@@ -18,6 +18,12 @@ This simple project was more to do with how to work with loops efficiently
 
 ![Screenshot 2025-04-29 164711](https://github.com/user-attachments/assets/5f0cc0c4-037a-4782-aa89-146b44683ac4)
 
+# SynthModule
+This is a synth module where you can add oscillators of different frequencies and set filters to change the sounds!
+
+
+![synthmodule](https://github.com/user-attachments/assets/f586c9d6-5109-4e66-8256-71cd8e027fe0)
+
 
 # Design with Alphanumeric Characters and Loops
 This was also to do with understanding how to use loops and making designs with them! 
